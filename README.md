@@ -55,6 +55,5 @@ pip install opencv-python
 ## License
 This project is open-source and available for educational and research purposes. Feel free to modify and improve it!
 
-## Author
-Nithilan Valan
+
 
